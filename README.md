@@ -4,7 +4,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Tableau-blue)
 ![Model](https://img.shields.io/badge/Model-XGBoost%20%7C%20AUC%200.81-success)
-
+![Dashboard](readmission_dashboard.png)
 ---
 
 ## 📌 Business Problem
